@@ -1,0 +1,40 @@
+body {
+	margin:0;
+	padding: 0;
+	font-family: "Times New Roman", Helvetica, sans-serif;
+	font-size: 16px;
+}
+
+
+
+#section {
+	float:right;
+	width: 77%;
+	padding: 5px;
+	margin: 5px 10px;
+	
+}
+#sidebar {
+	float: left;
+	width: 20%;
+	
+}
+
+ul li a {
+	text-decoration: none;
+	color: #23238E;
+}
+
+span {
+	font-style: italic;
+}
+
+table, td, th{
+	border: 1px solid #CCCCCC;
+	border-collapse: collapse; 
+	padding: 4px;
+	background: #F5F4F2;
+}
+
+th {
+	background: #ECE7D7;
